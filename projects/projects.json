@@ -40,56 +40,6 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
-    "category": "mern",
-    "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
-    }
-  },
-  {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
-    "category": "mern",
-    "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
-    }
-  },
-  {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
-    "category": "mern",
-    "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
-    }
-  },
-  {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
-    "category": "mern",
-    "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
-    }
-  },
-  {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
-    "category": "lamp",
-    "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
-    }
-  },
-  {
     "name": "JavaScript Projects Website",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
     "image": "jspro",
@@ -97,36 +47,6 @@
     "links": {
       "view": "https://jigar-sable.github.io/JavaScript-Projects",
       "code": "https://github.com/jigar-sable/JavaScript-Projects"
-    }
-  },
-  {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
-    }
-  },
-  {
-    "name": "Crypto Tracker",
-    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker",
-    "category": "mern",
-    "links": {
-      "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
-    }
-  },
-  {
-    "name": "Hulu Website",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
-    "category": "mern",
-    "links": {
-      "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
     }
   },
   {
@@ -157,16 +77,6 @@
     "links": {
       "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
       "code": "https://github.com/jigar-sable/Android-Webview"
-    }
-  },
-  {
-    "name": "PHP Banking Website",
-    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
-    "image": "tsfbank",
-    "category": "lamp",
-    "links": {
-      "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com/jigar-sable/TSF-Bank"
     }
   },
   {
@@ -210,16 +120,6 @@
     }
   },
   {
-    "name": "WebChat Website",
-    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "webchat",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/jigar-sable/WebChat#webchat",
-      "code": "https://github.com/jigar-sable/WebChat"
-    }
-  },
-  {
     "name": "Basic Banking App",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
     "image": "basicbank",
@@ -237,16 +137,6 @@
     "links": {
       "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
       "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
-    }
-  },
-  {
-    "name": "PHP PBL Portal",
-    "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
-    "image": "phppblform",
-    "category": "lamp",
-    "links": {
-      "view": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform#pbl-portal",
-      "code": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform"
     }
   },
   {
